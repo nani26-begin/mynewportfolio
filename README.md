@@ -53,6 +53,6 @@ pnpm start
 
 ## Contact
 
-- Email: [KAKKUMANUAJITBABU@GMAIL.COM)
+- Email: [Email](KAKKUMANUAJITBABU@GMAIL.COM)
 - GitHub: [Ajitbabu](https://github.com/nani26-begin)
-- LinkedIn: [https://www.linkedin.com/in/kakumanu-ajit-babu-804951334/)
+- LinkedIn: [linkedin](https://www.linkedin.com/in/kakumanu-ajit-babu-804951334/)
