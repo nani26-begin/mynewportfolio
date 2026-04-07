@@ -7,20 +7,19 @@ import ClientLayout from "./client"
 import "./globals.css"
 
 export const metadata: Metadata = {
-  title: "Rudrika Panigrahi | Full-Stack Developer & AI/ML Enthusiast",
+  title: "Ajit Babu Kakumanu | Full-Stack Developer",
   description:
-    "Portfolio of Rudrika Panigrahi, a B.Tech Computer Science student and Full-Stack Developer specializing in React.js, Node.js, FastAPI, and AI/ML.",
+    "Portfolio of Ajit Babu Kakumanu, a Full-Stack Developer specializing in React.js, Node.js, and mobile applications.",
   keywords: [
-    "Rudrika Panigrahi",
+    "Ajit Babu Kakumanu",
     "Full Stack Developer",
-    "AI ML Enthusiast",
+    "Software Engineer",
     "React",
     "Node.js",
     "Python",
-    "KIIT University",
   ],
-  authors: [{ name: "Rudrika Panigrahi" }],
-  creator: "Rudrika Panigrahi",
+  authors: [{ name: "Ajit Babu Kakumanu" }],
+  creator: "Ajit Babu Kakumanu",
   manifest: "/manifest.json",
   icons: {
     icon: [
@@ -33,11 +32,11 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://rudrikapanigrahi.com",
-    title: "Rudrika Panigrahi | Full-Stack Developer & AI/ML Enthusiast",
+    url: "https://ajitbabukakumanu.tech",
+    title: "Ajit Babu Kakumanu | Full-Stack Developer",
     description:
-      "Portfolio of Rudrika Panigrahi, a B.Tech Computer Science student and Full-Stack Developer specializing in React.js, Node.js, FastAPI, and AI/ML.",
-    siteName: "Rudrika Panigrahi Portfolio",
+      "Portfolio of Ajit Babu Kakumanu, a Full-Stack Developer specializing in React.js, Node.js, and mobile applications.",
+    siteName: "Ajit Babu Kakumanu Portfolio",
     images: [
       {
         url: "/profile.png",
@@ -49,10 +48,10 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Rudrika Panigrahi | Full-Stack Developer & AI/ML Enthusiast",
+    title: "Ajit Babu Kakumanu | Full-Stack Developer",
     description:
-      "Portfolio of Rudrika Panigrahi, a B.Tech Computer Science student and Full-Stack Developer specializing in React.js, Node.js, FastAPI, and AI/ML.",
-    creator: "@rudrika_p",
+      "Portfolio of Ajit Babu Kakumanu, a Full-Stack Developer specializing in React.js, Node.js, and mobile applications.",
+    creator: "@ajitbabukakumanu",
     images: ["/profile.png"],
   },
   robots: {
