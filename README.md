@@ -1,6 +1,6 @@
-# Rudrika Panigrahi Portfolio
+# Kakumanu Ajit babu Portfolio
 
-Personal portfolio website of Rudrika Panigrahi, a B.Tech Computer Science student and Full-Stack Developer with interest in AI/ML.
+Personal portfolio website of Ajit babu kakumanu, a B.Tech Data science student and Full-Stack Developer with interest in AI/ML.
 
 This project is built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui components.
 
@@ -25,11 +25,11 @@ This project is built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui comp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rudrika08/portfoliorp_08.git
+  https://github.com/nani26-begin/mynewportfolio
    ```
 2. Move into the project directory:
    ```bash
-   cd portfoliorp_08
+   cd nani26-begin
    ```
 3. Install dependencies:
    ```bash
@@ -53,6 +53,6 @@ pnpm start
 
 ## Contact
 
-- Email: [rudrika.812@gmail.com](mailto:rudrika.812@gmail.com)
-- GitHub: [rudrika08](https://github.com/rudrika08)
-- LinkedIn: [rudrika-panigrahi](https://linkedin.com/in/rudrika-panigrahi)
+- Email: [KAKKUMANUAJITBABU@GMAIL.COM)
+- GitHub: [Ajitbabu](https://github.com/nani26-begin)
+- LinkedIn: [https://www.linkedin.com/in/kakumanu-ajit-babu-804951334/)
