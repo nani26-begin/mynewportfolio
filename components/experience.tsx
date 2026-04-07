@@ -5,23 +5,23 @@ import Skills from "./skills-content"
 export default function Experience() {
   const experiences = [
     {
-      title: "Freelance Full-Stack Developer",
-      company: "Self-Employed",
-      period: "2024 - Present",
-      location: "Remote",
+      title: "Software Developer",
+      company: "Mastishka Information Technologies",
+      period: "2025 - Present",
+      location: "Hyderabad",
       achievements: [
-        "Architected and deployed premium web and mobile applications using React, Node.js, and Python.",
-        "Built robust backend systems including invoice generation and payment processing microservices.",
+        "Developing scalable software solutions and full-stack web applications.",
+        "Collaborating with cross-functional teams to deliver high-quality technical outcomes.",
       ],
     },
     {
-      title: "Software Engineering Intern",
-      company: "Tech Solutions",
-      period: "Summer 2023",
-      location: "India",
+      title: "LLM AI Trainer",
+      company: "Ethara AI",
+      period: "2026 - Present",
+      location: "Remote",
       achievements: [
-        "Developed and maintained React components and integrated REST APIs.",
-        "Improved application performance by optimizing database queries.",
+        "Training and fine-tuning Large Language Models (LLMs) for enhanced performance.",
+        "Crafting high-quality datasets and optimizing AI response accuracy.",
       ],
     },
   ]
