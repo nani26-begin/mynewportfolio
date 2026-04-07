@@ -118,7 +118,7 @@ export default function Contact() {
                     <p className="text-sm text-muted-foreground mb-4">Find me on these platforms</p>
                     <div className="flex gap-4">
                       <Button variant="outline" size="icon" asChild>
-                        <a href="https://github.com/ajitbabukakumanu" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/nani26-begin" target="_blank" rel="noopener noreferrer">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             width="24"

@@ -11,7 +11,7 @@ export default function Projects() {
       description:
         "Premium full-stack mobile application featuring real-time OTP verification, Google Maps API integration, and a worker registration system with a clean, intuitive UI.",
       tags: ["React", "Vite", "Node.js", "Express", "SQLite"],
-      codeLink: "https://github.com/ajitbabukakumanu/fixmate",
+      codeLink: "https://github.com/nani26-begin/fixmate",
       liveLink: null,
     },
     {
@@ -19,7 +19,7 @@ export default function Projects() {
       description:
         "Backend microservices architecture built with Python for managing invoices, generating PDFs, handling credit notes, and 500 HTTP exception management.",
       tags: ["Python", "REST API", "Microservices"],
-      codeLink: "https://github.com/ajitbabukakumanu/invoice-service",
+      codeLink: "https://github.com/nani26-begin/invoice-service",
       liveLink: null,
     },
     {
@@ -27,7 +27,7 @@ export default function Projects() {
       description:
         "Full-stack blogging platform with RESTful APIs (blogs, comments, likes, categories), JWT authentication, and React Quill rich text editor.",
       tags: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
-      codeLink: "https://github.com/ajitbabukakumanu",
+      codeLink: "https://github.com/nani26-begin",
       liveLink: null,
     },
   ]
