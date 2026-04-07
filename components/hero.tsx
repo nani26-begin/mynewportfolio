@@ -58,7 +58,7 @@ export default function Hero() {
               </Link>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <Link href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/in/kakumanu-ajit-babu-804951334/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </Link>
