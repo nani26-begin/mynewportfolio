@@ -13,7 +13,7 @@ export default function Hero() {
           <div className="relative h-36 w-36 overflow-hidden rounded-full border-2 border-primary/40 shadow-[0_0_30px_rgba(236,168,154,0.35)] sm:h-40 sm:w-40">
             <Image
               src="/profile.png"
-              alt="Rudrika Panigrahi"
+              alt="Ajit Babu Kakumanu"
               fill
               priority
               className="object-cover"
@@ -22,19 +22,19 @@ export default function Hero() {
           </div>
           <div className="space-y-2">
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none">
-              Hi, I&apos;m <span className="gradient-text">Rudrika Panigrahi</span>
+              Hi, I&apos;m <span className="gradient-text">Ajit Babu Kakumanu</span>
             </h1>
             <p className="mx-auto max-w-[700px] text-xl text-muted-foreground md:text-2xl">
               <span className="js-only">
-                <span>Full-Stack Developer & AI/ML Enthusiast</span>
+                <span>Full-Stack Developer</span>
               </span>
               <noscript>
-                <span>Full-Stack Developer | AI/ML Enthusiast | B.Tech Computer Science</span>
+                <span>Full-Stack Developer | Software Engineer</span>
               </noscript>
             </p>
           </div>
           <div className="max-w-[700px] text-muted-foreground">
-            <p className="text-lg">Building full-stack web applications and AI-based systems with a strong foundation in DSA and collaborative development</p>
+            <p className="text-lg">Building full-stack web and mobile applications with a strong foundation in modern frontend frameworks and scalable backends.</p>
           </div>
           <div className="flex flex-col sm:flex-row gap-4 mt-6">
             <Button asChild size="lg" className="rounded-full bg-[#c88a7d] text-white hover:bg-[#b67b6f]">
@@ -42,7 +42,7 @@ export default function Hero() {
             </Button>
             <Button asChild variant="outline" size="lg" className="rounded-full">
               <a
-                href="https://drive.google.com/file/d/1YgSaJOxyoI3bzgsLHgB5-sLF2ppkyXC1/view?usp=sharing"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -52,19 +52,19 @@ export default function Hero() {
           </div>
           <div className="flex gap-4 mt-6">
             <Button variant="ghost" size="icon" asChild>
-              <Link href="https://github.com/rudrika08" target="_blank" rel="noopener noreferrer">
+              <Link href="https://github.com/ajitbabukakumanu" target="_blank" rel="noopener noreferrer">
                 <Github className="h-5 w-5" />
                 <span className="sr-only">GitHub</span>
               </Link>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <Link href="https://www.linkedin.com/in/rudrika-panigrahi-6085b5268/" target="_blank" rel="noopener noreferrer">
+              <Link href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer">
                 <Linkedin className="h-5 w-5" />
                 <span className="sr-only">LinkedIn</span>
               </Link>
             </Button>
             <Button variant="ghost" size="icon" asChild>
-              <Link href="mailto:rudrika.812@gmail.com">
+              <Link href="mailto:ajitbabukakumanu@example.com">
                 <Mail className="h-5 w-5" />
                 <span className="sr-only">Email</span>
               </Link>

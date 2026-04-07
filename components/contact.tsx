@@ -9,20 +9,20 @@ export default function Contact() {
     {
       icon: <Mail className="h-6 w-6 text-primary" />,
       title: "Email",
-      value: "rudrika.812@gmail.com",
-      link: "mailto:rudrika.812@gmail.com",
+      value: "ajitbabukakumanu@example.com",
+      link: "mailto:ajitbabukakumanu@example.com",
     },
     {
       icon: <MapPin className="h-6 w-6 text-primary" />,
       title: "Location",
-      value: "KIIT University, Bhubaneswar, Odisha",
-      link: "https://maps.google.com/?q=KIIT+University,Bhubaneswar,Odisha",
+      value: "India",
+      link: "https://maps.google.com/?q=India",
     },
     {
       icon: <Phone className="h-6 w-6 text-primary" />,
       title: "Phone",
-      value: "+91-7855027314",
-      link: "tel:+917855027314",
+      value: "+91-XXXXXXXXXX",
+      link: "tel:+91XXXXXXXXXX",
     },
   ]
 
@@ -118,7 +118,7 @@ export default function Contact() {
                     <p className="text-sm text-muted-foreground mb-4">Find me on these platforms</p>
                     <div className="flex gap-4">
                       <Button variant="outline" size="icon" asChild>
-                        <a href="https://github.com/rudrika08" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/ajitbabukakumanu" target="_blank" rel="noopener noreferrer">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             width="24"
@@ -138,7 +138,7 @@ export default function Contact() {
                         </a>
                       </Button>
                       <Button variant="outline" size="icon" asChild>
-                        <a href="https://linkedin.com/in/rudrika-panigrahi" target="_blank" rel="noopener noreferrer">
+                        <a href="https://linkedin.com/" target="_blank" rel="noopener noreferrer">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             width="24"
@@ -159,7 +159,7 @@ export default function Contact() {
                         </a>
                       </Button>
                       <Button variant="outline" size="icon" asChild>
-                        <a href="mailto:rudrika.812@gmail.com">
+                        <a href="mailto:ajitbabukakumanu@example.com">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             width="24"

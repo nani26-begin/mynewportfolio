@@ -8,9 +8,9 @@ import Contact from "@/components/contact"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Rudrika Panigrahi | Full-Stack Developer & AI/ML Enthusiast",
+  title: "Ajit Babu Kakumanu | Full-Stack Developer",
   description:
-    "Portfolio of Rudrika Panigrahi, a B.Tech Computer Science student and Full-Stack Developer. Explore projects, experience, and skills in web development and AI/ML.",
+    "Portfolio of Ajit Babu Kakumanu, Full-Stack Developer. Explore projects, experience, and skills in web development.",
 }
 
 export default function Home() {

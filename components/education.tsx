@@ -5,20 +5,20 @@ export default function Education() {
   const educationData = [
     {
       degree: "B.Tech, Computer Science",
-      institution: "KIIT University, Bhubaneswar",
+      institution: "State University",
       period: "2023 - 2027",
       description:
-        "Pursuing a comprehensive computer science program with focus on software development, algorithms, data structures, AI/ML, and full-stack development. Active participation in technical clubs and projects.",
+        "Pursuing a comprehensive computer science program with focus on software development, algorithms, data structures, and full-stack development.",
     },
     {
-      degree: "Class XII, CBSE",
-      institution: "DAV Public School, Berhampur",
+      degree: "Class XII",
+      institution: "High School",
       period: "2021 - 2022",
       description: "Completed higher secondary education with focus on Science stream.",
     },
     {
-      degree: "Class X, CBSE",
-      institution: "DAV Public School, Berhampur",
+      degree: "Class X",
+      institution: "High School",
       period: "2019 - 2020",
       description: "Completed secondary education with strong academic foundation.",
     },

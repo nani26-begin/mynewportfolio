@@ -10,8 +10,8 @@ export default function About() {
     },
     {
       icon: <Brain className="h-10 w-10 text-primary" />,
-      title: "AI/ML Enthusiast",
-      description: "Experience with LLM Agents, NLP, Scikit-learn, and Vector Databases",
+      title: "Mobile App Development",
+      description: "Experience building cross-platform applications and integrating maps.",
     },
     {
       icon: <Server className="h-10 w-10 text-primary" />,
@@ -33,17 +33,15 @@ export default function About() {
             <div className="space-y-4 text-center">
               <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">About Me</h2>
               <p className="mx-auto max-w-[700px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                Computer Science undergraduate at KIIT University with experience building full-stack web applications
-                and AI-based systems.
+                Passionate Full-Stack Developer with experience building scalable web and mobile applications.
               </p>
             </div>
 
             <div className="mx-auto max-w-3xl text-center">
               <p className="text-muted-foreground md:text-lg/relaxed lg:text-base/relaxed xl:text-lg/relaxed">
-                Strong foundation in data structures, problem solving, and collaborative software development.
-                Experienced in designing scalable systems with modern technologies including React, Node.js, FastAPI,
-                and MongoDB. Passionate about AI/ML with hands-on experience in LLM Agents, NLP, and vector databases
-                for building intelligent applications.
+                Strong foundation in software engineering, UI/UX implementation, and backend API integration.
+                Experienced in designing robust systems with modern technologies including React, Vite, Node.js, Express,
+                and Python microservices. Dedicated to building premium, seamless user experiences.
               </p>
             </div>
 

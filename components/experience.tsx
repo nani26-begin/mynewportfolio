@@ -5,23 +5,23 @@ import Skills from "./skills-content"
 export default function Experience() {
   const experiences = [
     {
-      title: "Senior Technical Executive",
-      company: "FED KIIT",
-      period: "November 2024 - Present",
-      location: "Bhubaneswar, Odisha",
+      title: "Freelance Full-Stack Developer",
+      company: "Self-Employed",
+      period: "2024 - Present",
+      location: "Remote",
       achievements: [
-        "Developed C25 Campus Map, a production-ready interactive campus navigation system",
-        "Integrated automated certificate distribution and QR-based attendance tracking systems",
+        "Architected and deployed premium web and mobile applications using React, Node.js, and Python.",
+        "Built robust backend systems including invoice generation and payment processing microservices.",
       ],
     },
     {
-      title: "Summer Intern",
-      company: "ISRO (RO/SCOF)",
-      period: "May 2025 - June 2025",
+      title: "Software Engineering Intern",
+      company: "Tech Solutions",
+      period: "Summer 2023",
       location: "India",
       achievements: [
-        "Developed and deployed a production web portal for IYD-2025 using Java and JSP",
-        "Improved internal digital workflows and coordination across teams",
+        "Developed and maintained React components and integrated REST APIs.",
+        "Improved application performance by optimizing database queries.",
       ],
     },
   ]

@@ -7,27 +7,19 @@ import OpenSource from "./open-source"
 export default function Projects() {
   const projects = [
     {
-      title: "StaySync",
+      title: "FixMate",
       description:
-        "AI-Powered Group Inventory Platform for MICE events with multi-role RBAC, real-time WebSocket inventory tracking, AI chatbot using LLM APIs and vector search, and Razorpay payment integration.",
-      tags: ["React", "Node.js", "FastAPI", "MongoDB", "Qdrant", "OpenAI", "Docker"],
-      codeLink: "https://github.com/rudrika08",
+        "Premium full-stack mobile application featuring real-time OTP verification, Google Maps API integration, and a worker registration system with a clean, intuitive UI.",
+      tags: ["React", "Vite", "Node.js", "Express", "SQLite"],
+      codeLink: "https://github.com/ajitbabukakumanu/fixmate",
       liveLink: null,
     },
     {
-      title: "Agentic AI Banking Platform",
+      title: "Invoice & Payment Microservices",
       description:
-        "Multi-agent AI system for NBFC loan onboarding covering KYC, risk assessment (FOIR checks), and decisioning with stateful context and human-in-the-loop escalation routing.",
-      tags: ["Python", "Multi-Agent AI", "Stateful Workflows"],
-      codeLink: "https://github.com/rudrika08",
-      liveLink: null,
-    },
-    {
-      title: "Twitter Sentiment Analyser",
-      description:
-        "ML classifier (positive/negative/neutral) trained on Sentiment140 (1.6M tweets) with full NLP preprocessing pipeline; deployed as a real-time Streamlit web app.",
-      tags: ["Python", "NLP", "Scikit-learn", "TF-IDF", "Streamlit"],
-      codeLink: "https://github.com/rudrika08",
+        "Backend microservices architecture built with Python for managing invoices, generating PDFs, handling credit notes, and 500 HTTP exception management.",
+      tags: ["Python", "REST API", "Microservices"],
+      codeLink: "https://github.com/ajitbabukakumanu/invoice-service",
       liveLink: null,
     },
     {
@@ -35,7 +27,7 @@ export default function Projects() {
       description:
         "Full-stack blogging platform with RESTful APIs (blogs, comments, likes, categories), JWT authentication, and React Quill rich text editor.",
       tags: ["React", "Node.js", "Express.js", "MongoDB", "JWT"],
-      codeLink: "https://github.com/rudrika08",
+      codeLink: "https://github.com/ajitbabukakumanu",
       liveLink: null,
     },
   ]
