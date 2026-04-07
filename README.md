@@ -25,7 +25,7 @@ This project is built with Next.js, TypeScript, Tailwind CSS, and shadcn/ui comp
 
 1. Clone the repository:
    ```bash
-  https://github.com/nani26-begin/mynewportfolio
+           https://github.com/nani26-begin/mynewportfolio
    ```
 2. Move into the project directory:
    ```bash
