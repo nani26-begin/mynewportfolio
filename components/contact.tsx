@@ -9,8 +9,8 @@ export default function Contact() {
     {
       icon: <Mail className="h-6 w-6 text-primary" />,
       title: "Email",
-      value: "ajitbabukakumanu@example.com",
-      link: "mailto:ajitbabukakumanu@example.com",
+      value: "kakumanuajitbabu@gmail.com",
+      link: "mailto:kakumanuajitbabu@gmail.com",
     },
     {
       icon: <MapPin className="h-6 w-6 text-primary" />,
@@ -21,8 +21,8 @@ export default function Contact() {
     {
       icon: <Phone className="h-6 w-6 text-primary" />,
       title: "Phone",
-      value: "+91-XXXXXXXXXX",
-      link: "tel:+91XXXXXXXXXX",
+      value: "6301898658",
+      link: "tel:6301898658",
     },
   ]
 
@@ -159,7 +159,7 @@ export default function Contact() {
                         </a>
                       </Button>
                       <Button variant="outline" size="icon" asChild>
-                        <a href="mailto:ajitbabukakumanu@example.com">
+                        <a href="mailto:kakumanuajitbabu@gmail.com">
                           <svg
                             xmlns="http://www.w3.org/2000/svg"
                             width="24"

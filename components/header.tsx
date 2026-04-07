@@ -120,9 +120,9 @@ export default function Header() {
             className="flex items-center gap-2"
           >
             <div className="relative h-9 w-9 overflow-hidden rounded-full border border-primary/50 shadow-[0_0_10px_rgba(236,168,154,0.35)]">
-              <Image src="/profile.png" alt="Rudrika Panigrahi" fill className="object-cover" sizes="36px" />
+              <Image src="/profile.png" alt="Ajit Babu Kakumanu" fill className="object-cover" sizes="36px" />
             </div>
-            <span className="text-xl font-bold gradient-text">RP</span>
+            <span className="text-xl font-bold gradient-text">AB</span>
           </motion.div>
         </Link>
 
