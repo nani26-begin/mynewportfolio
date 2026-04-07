@@ -4,23 +4,23 @@ import { GraduationCap } from "lucide-react"
 export default function Education() {
   const educationData = [
     {
-      degree: "B.Tech, Computer Science",
-      institution: "State University",
-      period: "2023 - 2027",
+      degree: "B.Tech, Data Science",
+      institution: "Bapatla Engineering College",
+      period: "2023 - 2026",
       description:
-        "Pursuing a comprehensive computer science program with focus on software development, algorithms, data structures, and full-stack development.",
+        "Specializing in Data Science, focusing on advanced analytics, machine learning, and data-driven decision making.",
     },
     {
-      degree: "Class XII",
-      institution: "High School",
-      period: "2021 - 2022",
-      description: "Completed higher secondary education with focus on Science stream.",
+      degree: "Diploma, ECE",
+      institution: "Bapatla Polytechnic College",
+      period: "2020 - 2023",
+      description: "Acquired fundamental knowledge in Electronics and Communications Engineering with hands-on technical training.",
     },
     {
       degree: "Class X",
-      institution: "High School",
-      period: "2019 - 2020",
-      description: "Completed secondary education with strong academic foundation.",
+      institution: "Sri Sai High School",
+      period: "2020",
+      description: "Completed secondary education with a strong academic performance.",
     },
   ]
 
